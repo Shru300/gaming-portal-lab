@@ -12,8 +12,7 @@ This repository contains the source code for **Activity 01**, a cloud-hosted gam
 
 ## 🚀 Live Demo
 You can view the live website here:  
-👉 **[Click to Open Gaming Portal](https://your-username.github.io/gaming-portal-lab/)** *(**Important:** Replace `your-username` in the link above with your actual GitHub username)*
-
+👉 **[Click to Open Gaming Portal](https://shru300.github.io/gaming-portal-lab/)** 
 ## 🛠️ Project Objectives
 1.  **Objective 1:** Created a Home Page for the gaming portal and hosted it using GitHub Pages.
 2.  **Objective 2:** Created a GitHub repository and shared access with collaborators.
@@ -24,4 +23,4 @@ You can view the live website here:
 * `game.html`: The logic for the web-based game.
 
 ---
-*Submitted for Lab Activity 01 - Gaming in Cloud.*
+*Submitted for Activity 01 - Gaming in Cloud.*
